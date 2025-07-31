@@ -86,4 +86,9 @@ tree /home/umarino/snap
 ---
 
 ### 10. Busca un archivo concreto en el directorio actual utilizando `find`  
-*(pendiente)*
+
+Busqué dentro de `~/Documentos` un archivo llamado `test2.txt`
+
+```bash
+find . -name "test2.txt"
+```
