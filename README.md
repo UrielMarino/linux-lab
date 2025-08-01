@@ -8,6 +8,6 @@ Esto no es un repo de scripts productivos ni automatizaciones. Es un registro de
 	- Comandos: `pwd`, `cd`, `ls`, `man`, `whoami`, `date`, `cal`, `clear`
 - [02 – Gestión de archivos](02%20-%20Gestión%20de%20archivos.md)
 	- Comandos: `mkdir`, `rm`, `cp`, `mv`, `find`, `tree`, `*`, etc.
-- [03 - Comandos avanzados](03%20-%20Comandos%20avanzados.md)
+- [03 – Comandos avanzados](03%20-%20Comandos%20avanzados.md)
 
 ## Bash
