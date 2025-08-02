@@ -9,6 +9,5 @@
 	- Comandos: `cat`, `less`, `head`, `tail`, `grep`, `wc`, `echo`, `rm`, `touch`, `|`.
 
 ## Bash
-- [roadmap.sh](https://roadmap.sh/projects/server-stats)
 - [Server Performance Stats](server-performance-stats)
 
