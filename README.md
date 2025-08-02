@@ -1,4 +1,4 @@
-# 🐧 Linux Práctica  
+# 🐧 Linux Lab   
 
 Esto no es un repo de scripts productivos ni automatizaciones. Es un registro de mi progreso mientras aprendo Linux.
 
@@ -12,3 +12,4 @@ Esto no es un repo de scripts productivos ni automatizaciones. Es un registro de
 	- Comandos: `cat`, `less`, `head`, `tail`, `grep`, `wc`, `echo`, `rm`, `touch`, `|`.
 
 ## Bash
+- [Server Performance Stats](server-performance-stats)
