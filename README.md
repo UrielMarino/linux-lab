@@ -8,6 +8,7 @@
 - [03 - Comandos avanzados](ejercicios/03%20-%20Comandos%20avanzados.md)
 	- Comandos: `cat`, `less`, `head`, `tail`, `grep`, `wc`, `echo`, `rm`, `touch`, `|`.
 
-## Bash
+## Proyectos
+https://roadmap.sh/projects/server-stats
 - [Server Performance Stats](server-performance-stats)
 
