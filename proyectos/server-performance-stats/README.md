@@ -1,6 +1,6 @@
 # 📊 Server Performance Stats
 
-🟢 Proyecto basado en la plataforma de aprendizaje [roadmap.sh](https://roadmap.sh/projects/server-stats)
+🟢 Proyecto basado en https://roadmap.sh/projects/server-stats
 
 > Escribe un script en Bash para analizar estadísticas básicas de rendimiento del servidor Linux desde la CLI.
 
